@@ -2,13 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisite
+ You should have spotify client key. You can get one by visiting [Spotify developer portal](https://developer.spotify.com/)
+
 ## Running this locally
 
-### clone the project
+```
+$ git clone git@github.com:mnj93/spotify-clone.git
+$ npm install
+$ npm start
 
-### Create Spotify developer account key and uodate it in .env file
+```
 
-### run npm start or yarn start
+Now you can go to your browser and open link http://localhost:3000 to see it in action.
 
 
 ## Learn More
